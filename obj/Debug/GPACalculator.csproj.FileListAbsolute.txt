@@ -1,0 +1,30 @@
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe.config
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.pdb
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.AssemblyReference.cache
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.SuggestedBindingRedirects.cache
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Properties.Resources.resources
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.GenerateResource.cache
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.CoreCompileInputs.cache
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.View.Start.resources
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.View.GPA.resources
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\bin\Debug\CircularProgressBar.dll
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\bin\Debug\WinFormAnimation.dll
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\bin\Debug\CircularProgressBar.xml
+D:\Z - PC\Computer Science\level 3\SWE2\C#\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.CopyComplete
+D:\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe.config
+D:\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe
+D:\GPACalculator\GPACalculator\bin\Debug\GPACalculator.pdb
+D:\GPACalculator\GPACalculator\bin\Debug\CircularProgressBar.xml
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.AssemblyReference.cache
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.SuggestedBindingRedirects.cache
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Properties.Resources.resources
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.View.GPA.resources
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.View.Start.resources
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.GenerateResource.cache
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.CoreCompileInputs.cache
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.CopyComplete
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+D:\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
